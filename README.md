@@ -18,7 +18,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
     🔹
     <a href="https://github.com/joshex150/Python/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/joshex150/Python/issues">Request Feature</a>
+    <a href="https://github.com/joshex150/Python/issues">Contribution</a>
 </h3>
 
 ## This project was built using these technologies.
