@@ -1,6 +1,6 @@
 # Python
 
-# One of my random projects
+# My random projects
 
 <center>
 
