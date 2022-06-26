@@ -29,7 +29,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Features
 
-**📄 Incomplete code**
+**📄 Python Programs Complete and incomplete**
 
 ## Getting Started
 
